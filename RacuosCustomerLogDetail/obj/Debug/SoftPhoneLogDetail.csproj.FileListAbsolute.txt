@@ -1,0 +1,17 @@
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.exe.config
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.pdb
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.Form1.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.Properties.Resources.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.csproj.GenerateResource.Cache
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.pdb
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.exe.config
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.exe
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.pdb
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.exe
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\bin\Debug\SoftPhoneLogDetail.pdb
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.Form1.resources
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.Properties.Resources.resources
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.csproj.GenerateResource.Cache
+D:\workspace\Sample\SoftPhoneLogDetail\SoftPhoneLogDetail\obj\Debug\SoftPhoneLogDetail.csprojResolveAssemblyReference.cache
